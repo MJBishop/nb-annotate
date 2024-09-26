@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb-annotate"
+  site-url: "https://MJBishop.github.io/nb-annotate"
+  description: "Annotate images, video and audio from python notebooks"
+  repo-branch: main
+  repo-url: "https://github.com/MJBishop/nb-annotate"
